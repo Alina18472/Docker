@@ -1,0 +1,12 @@
+[
+    {"product_id": 1, "product_name": "iPhone 14", "category_id": 1, "manufacturer_id": 1, "price": 999.99},
+    {"product_id": 2, "product_name": "Galaxy S23", "category_id": 5, "manufacturer_id": 2, "price": 849.99},
+    {"product_id": 3, "product_name": "MacBook Pro", "category_id": 9, "manufacturer_id": 1, "price": 1999.99},
+    {"product_id": 4, "product_name": "iPad Air", "category_id": 6, "manufacturer_id": 1, "price": 599.99},
+    {"product_id": 5, "product_name": "Galaxy Tab", "category_id": 2, "manufacturer_id": 2, "price": 349.99},
+    {"product_id": 6, "product_name": "PlayStation 5", "category_id": 7, "manufacturer_id": 3, "price": 499.99},
+    {"product_id": 7, "product_name": "Xbox Series X", "category_id": 8, "manufacturer_id": 4, "price": 499.99},
+    {"product_id": 8, "product_name": "AirPods Pro", "category_id": 4, "manufacturer_id": 1, "price": 249.99},
+    {"product_id": 9, "product_name": "Galaxy Buds", "category_id": 4, "manufacturer_id": 2, "price": 149.99},
+    {"product_id": 10, "product_name": "Surface Laptop", "category_id": 3, "manufacturer_id": 4, "price": 1299.99}
+  ]
