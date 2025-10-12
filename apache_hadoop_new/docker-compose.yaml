@@ -1,0 +1,62 @@
+services:
+    namenode:
+        image: apache/hadoop:3
+        hostname: namenode
+        command: ["hdfs", "namenode"]
+        ports:
+          - 9871:9870
+        env_file:
+          - ./config.env
+        environment:
+            ENSURE_NAMENODE_DIR: "/data/hadoop_name"
+    datanode:
+        image: apache/hadoop:3
+        command: ["hdfs", "datanode"]
+        env_file:
+          - ./config.env
+        scale: 3
+    resourcemanager:
+        image: apache/hadoop:3
+        hostname: resourcemanager
+        command: ["yarn", "resourcemanager"]
+        ports:
+            - 8089:8088
+        env_file:
+          - ./config.env
+    nodemanager:
+        image: apache/hadoop:3
+        hostname: nodemanager
+        command: ["yarn", "nodemanager"]
+        env_file:
+          - ./config.env
+    spark-master:
+        image: apache/spark
+        hostname: spark-master
+        user: root
+        command: sh -c "../sbin/start-master.sh && sleep infinity"
+        environment:
+          - JAVA_OPTS=-Duser.home=/tmp
+        healthcheck:
+            test: ["CMD-SHELL", "curl --fail http://localhost:8080 || exit 1"]
+            interval: 5s
+            timeout: 5s
+            retries: 3
+        ports:
+          - 8080:8080
+          - 7077:7077
+        env_file:
+          - ./config.env
+    spark-worker:
+        image: apache/spark
+        user: root
+        command: sh -c "../sbin/start-worker.sh spark-master:7077 && sleep infinity"
+        environment:
+          - JAVA_OPTS=-Duser.home=/tmp
+        healthcheck:
+            test: ["CMD-SHELL", "curl --fail http://spark-master:8080 || exit 1"]
+            interval: 5s
+            timeout: 5s
+            retries: 3
+        scale: 2
+        env_file:
+          - ./config.env
