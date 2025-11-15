@@ -1,0 +1,201 @@
+version: "3"
+
+services:
+  namenode:
+        image: apache/hadoop:3
+        hostname: namenode
+        command: ["hdfs", "namenode"]
+        ports:
+          - 9871:9870
+        env_file:
+          - ./config.env
+        environment:
+            ENSURE_NAMENODE_DIR: "/data/hadoop_name"
+        networks:
+           - hadoop_spark
+  datanode:
+        image: apache/hadoop:3
+        command: ["hdfs", "datanode"]
+        env_file:
+          - ./config.env
+        scale: 3
+        networks:
+        - hadoop_spark
+  resourcemanager:
+        image: apache/hadoop:3
+        hostname: resourcemanager
+        command: ["yarn", "resourcemanager"]
+        ports:
+            - 8089:8088
+        env_file:
+          - ./config.env
+        networks:
+        - hadoop_spark
+  nodemanager:
+        image: apache/hadoop:3
+        hostname: nodemanager
+        command: ["yarn", "nodemanager"]
+        env_file:
+          - ./config.env
+        networks:
+        - hadoop_spark
+
+  spark-master:
+    image: apache/spark:3.5.1  # Используем Spark 3.5.1 вместо 4.0.1
+    hostname: spark.master
+    command: 
+      - bash
+      - -c
+      - |
+        wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/spark/spark-sql-kafka-0-10_2.12/3.5.1/spark-sql-kafka-0-10_2.12-3.5.1.jar
+        wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.5.1/kafka-clients-3.5.1.jar
+        wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/spark/spark-token-provider-kafka-0-10_2.12/3.5.1/spark-token-provider-kafka-0-10_2.12-3.5.1.jar
+        wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar
+        wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10-assembly_2.12/3.5.1/spark-streaming-kafka-0-10-assembly_2.12-3.5.1.jar
+        pip install kafka-python pymongo pyspark
+        ../sbin/start-master.sh
+        sleep infinity
+    
+    #command: sh -c "../sbin/start-master.sh && sleep infinity"
+    healthcheck:
+        test: ["CMD-SHELL", "curl --fail http://localhost:8080 || exit 1"]
+        interval: 5s
+        timeout: 5s
+        retries: 3
+    ports:
+      - 8080:8080
+    env_file:
+      - ./config.env
+    networks:
+    - hadoop_spark
+
+  spark-worker:
+      image: apache/spark:3.5.1  # Используем Spark 3.5.1 вместо 4.0.1
+      command: 
+        - bash
+        - -c
+        - |
+          wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/spark/spark-sql-kafka-0-10_2.12/3.5.1/spark-sql-kafka-0-10_2.12-3.5.1.jar
+          wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.5.1/kafka-clients-3.5.1.jar
+          wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/spark/spark-token-provider-kafka-0-10_2.12/3.5.1/spark-token-provider-kafka-0-10_2.12-3.5.1.jar
+          wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar
+          wget -P /opt/spark/jars/ https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10-assembly_2.12/3.5.1/spark-streaming-kafka-0-10-assembly_2.12-3.5.1.jar
+          pip install kafka-python pymongo pyspark
+          ../sbin/start-worker.sh spark.master:7077
+          sleep infinity
+      #command: sh -c "../sbin/start-worker.sh spark.master:7077 && sleep infinity"
+      healthcheck:
+          test: ["CMD-SHELL", "curl --fail http://spark.master:8080 || exit 1"]
+          interval: 5s
+          timeout: 5s
+          retries: 3
+      scale: 2
+      env_file:
+        - ./config.env
+      networks:
+      - hadoop_spark
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.4.0
+    container_name: zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    ports:
+      - "2181:2181"
+    networks:
+      - hadoop_spark
+
+  kafka:
+    image: confluentinc/cp-kafka:7.4.0
+    container_name: kafka
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:29092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+    networks:
+      - hadoop_spark
+  kafka-connect:
+    image: confluentinc/cp-kafka-connect:7.4.0
+    container_name: kafka-connect
+    depends_on:
+      - kafka
+      - zookeeper
+    environment:
+      CONNECT_BOOTSTRAP_SERVERS: kafka:9092
+      CONNECT_REST_PORT: 8083
+      CONNECT_GROUP_ID: kafka-connect
+      CONNECT_CONFIG_STORAGE_TOPIC: docker-connect-configs
+      CONNECT_CONFIG_STORAGE_REPLICATION_FACTOR: 1
+      CONNECT_OFFSET_STORAGE_TOPIC: docker-connect-offsets
+      CONNECT_OFFSET_STORAGE_REPLICATION_FACTOR: 1
+      CONNECT_STATUS_STORAGE_TOPIC: docker-connect-status
+      CONNECT_STATUS_STORAGE_REPLICATION_FACTOR: 1
+      CONNECT_KEY_CONVERTER: org.apache.kafka.connect.json.JsonConverter
+      CONNECT_VALUE_CONVERTER: org.apache.kafka.connect.json.JsonConverter
+      CONNECT_PLUGIN_PATH: "/usr/share/java,/usr/share/confluent-hub-components"
+      CONNECT_REST_ADVERTISED_HOST_NAME: kafka-connect
+    ports:
+      - "8083:8083"
+    networks:
+      - hadoop_spark
+    # Опционально: для установки дополнительных коннекторов при старте
+    volumes:
+      - ./connectors:/etc/kafka-connect/connectors
+    command:
+      - bash
+      - -c
+      - |
+        echo "Installing connector plugins..."
+        confluent-hub install --no-prompt confluentinc/kafka-connect-jdbc:10.7.4
+        confluent-hub install --no-prompt mongodb/kafka-connect-mongodb:1.10.0
+        /etc/confluent/docker/run
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    container_name: kafka-ui
+    depends_on:
+      - kafka
+    environment:
+      - KAFKA_CLUSTERS_0_NAME=local
+      - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=kafka:9092
+      - KAFKA_CLUSTERS_0_ZOOKEEPER=zookeeper:2181
+    ports:
+      - "8082:8080"
+    networks:
+      - hadoop_spark
+
+  mongodb:
+        image: mongo:6.0
+        container_name: mongodb
+        ports:
+          - "27017:27017"
+        environment:
+          MONGO_INITDB_ROOT_USERNAME: admin
+          MONGO_INITDB_ROOT_PASSWORD: password
+        networks:
+          - hadoop_spark
+
+  mongo-express:
+      image: mongo-express:1.0
+      container_name: mongo-express
+      ports:
+        - "8081:8081"
+      environment:
+        ME_CONFIG_MONGODB_ADMINUSERNAME: admin
+        ME_CONFIG_MONGODB_ADMINPASSWORD: password
+        ME_CONFIG_MONGODB_URL: mongodb://admin:password@mongodb:27017/
+      depends_on:
+        - mongodb
+      networks:
+        - hadoop_spark
+networks:
+  hadoop_spark:
+    driver: bridge

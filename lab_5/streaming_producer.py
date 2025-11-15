@@ -38,7 +38,7 @@ def main():
         return
     
     print("Отправляем данные в Kafka...")
-    print("   Топик: weather_data")
+    print("Топик: weather_data")
    
     
     message_count = 0

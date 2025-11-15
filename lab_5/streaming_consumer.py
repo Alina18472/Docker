@@ -23,7 +23,7 @@ def create_spark_session():
         return None
 
 def create_kafka_stream(spark):
-    """Создаем Kafka поток для чтения данных"""
+    # Создаем Kafka поток для чтения данных
     print("Создаем Kafka поток...")
     
     try:
@@ -44,7 +44,7 @@ def create_kafka_stream(spark):
         return None
 
 def process_weather_data(kafka_df):
-    """Обрабатываем погодные данные из Kafka"""
+    # Обрабатываем погодные данные из Kafka
     print("Обрабатываем погодные данные...")
     
     # Схема для JSON данных о погоде
@@ -85,9 +85,44 @@ def process_weather_data(kafka_df):
     
     return weather_df
 
+def add_aggregations(weather_df):
+   # Добавляем агрегации к данным
+    print("Добавляем агрегации...")
+    
+    # Агрегация по городам 
+    city_stats = weather_df \
+        .withWatermark("kafka_timestamp", "5 minutes") \
+        .groupBy(
+            "city",
+            window("kafka_timestamp", "5 minutes", "1 minute")  
+        ) \
+        .agg(
+            count("*").alias("message_count"),
+            avg("temperature").alias("avg_temperature"),
+            min("temperature").alias("min_temperature"),
+            max("temperature").alias("max_temperature"),
+            avg("humidity").alias("avg_humidity"),
+            avg("wind_speed").alias("avg_wind_speed"),
+            approx_count_distinct("weather_condition").alias("unique_conditions")
+        ) \
+        .select(
+            "city",
+            "window.start",
+            "window.end",
+            "message_count",
+            round("avg_temperature", 1).alias("avg_temp"),
+            "min_temperature",
+            "max_temperature",
+            round("avg_humidity", 1).alias("avg_humidity"),
+            round("avg_wind_speed", 1).alias("avg_wind_speed"),
+            "unique_conditions"
+        )
+    
+    return city_stats
+
 def main():
     print("=" * 60)
-    print("Weather Streaming Application")
+    print("Weather Streaming Application with Aggregations")
     print("=" * 60)
     
     # Создаем Spark сессию
@@ -95,7 +130,8 @@ def main():
     if spark is None:
         return
     
-    query = None
+    query_raw = None
+    query_stats = None
     
     try:
         # Создаем Kafka поток
@@ -108,26 +144,39 @@ def main():
         # Обрабатываем данные
         weather_df = process_weather_data(kafka_stream)
         
-        # Запускаем потоковый запрос
-        print("Запускаем потоковый запрос...")
+        # Добавляем агрегации
+        city_stats_df = add_aggregations(weather_df)
         
-        query = weather_df \
+        print("Запускаем потоковые запросы...")
+        
+        # Запрос 1: Сырые данные
+        query_raw = weather_df \
             .writeStream \
             .outputMode("append") \
             .format("console") \
             .option("truncate", "false") \
-            .option("numRows", 10) \
-            .option("checkpointLocation", "/tmp/checkpoints/weather") \
+            .option("numRows", 5) \
+            .option("checkpointLocation", "/tmp/checkpoints/weather_raw") \
+            .queryName("raw_data") \
             .start()
         
-        print("\nСтатус:")
-        print("   Поток запущен")
-        print("   Ожидаем данные из топика: weather-data")
-        print("   Обработка в течение 60 секунд...")
-        print("=" * 60)
+        # Запрос 2: Агрегированные данные
+        query_stats = city_stats_df \
+            .writeStream \
+            .outputMode("update") \
+            .format("console") \
+            .option("truncate", "false") \
+            .option("numRows", 10) \
+            .option("checkpointLocation", "/tmp/checkpoints/weather_stats") \
+            .queryName("city_statistics") \
+            .start()
         
-        # Ждем завершения (60 секунд)
-        query.awaitTermination(60)
+        print("\n" + "=" * 60)
+        print("=" * 60)
+        print("\nОжидаем данные...\n")
+        
+     
+        query_stats.awaitTermination(120)
         
         print("Время выполнения истекло")
         
@@ -138,8 +187,10 @@ def main():
         
     finally:
         print("\nЗавершаем работу...")
-        if query and query.isActive:
-            query.stop()
+        if query_raw and query_raw.isActive:
+            query_raw.stop()
+        if query_stats and query_stats.isActive:
+            query_stats.stop()
         spark.stop()
         print("Приложение завершено")
 

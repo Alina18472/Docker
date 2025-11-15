@@ -1,0 +1,2196 @@
+WEATHER_STATS: 2024-1-10	
+  Temperature: -6.4C - -0.6C	
+  Humidity: up to 75.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 1.7 hPa	
+WEATHER_STATS: 2024-1-11	
+  Temperature: -6.7C - 2.0C	
+  Humidity: up to 82.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 21.0 km/h	
+  Pressure range: 2.3 hPa	
+WEATHER_STATS: 2024-1-12	
+  Temperature: -0.8C - 0.4C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 2.7 hPa	
+WEATHER_STATS: 2024-1-13	
+  Temperature: -0.9C - 0.9C	
+  Humidity: up to 90.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 11.1 hPa	
+WEATHER_STATS: 2024-1-14	
+  Temperature: -2.3C - 0.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 29.0 km/h	
+  Pressure range: 11.5 hPa	
+WEATHER_STATS: 2024-1-15	
+  Temperature: -2.6C - 2.0C	
+  Humidity: up to 88.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 33.1 km/h	
+  Pressure range: 6.6 hPa	
+WEATHER_STATS: 2024-1-16	
+  Temperature: -5.7C - 1.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 5.1 hPa	
+WEATHER_PHENOMENA: 2024-1-17 - Detected: very_high_humidity, rapid_pressure_change	
+  Temperature: -6.3C - 0.5C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 19.5 hPa	
+WEATHER_PHENOMENA: 2024-1-18 - Detected: very_high_humidity, rapid_pressure_change	
+  Temperature: -4.0C - 1.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.6mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 23.5 hPa	
+WEATHER_PHENOMENA: 2024-1-19 - Detected: rapid_pressure_change	
+  Temperature: -8.7C - -0.3C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 15.3 hPa	
+WEATHER_STATS: 2024-1-1	
+  Temperature: 6.0C - 8.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 31.0 km/h	
+  Pressure range: 5.3 hPa	
+WEATHER_STATS: 2024-1-20	
+  Temperature: -8.1C - -4.3C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 4.5 hPa	
+WEATHER_STATS: 2024-1-21	
+  Temperature: -9.6C - 2.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 7.2 hPa	
+WEATHER_STATS: 2024-1-22	
+  Temperature: 2.0C - 8.0C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 32.4 km/h	
+  Pressure range: 9.6 hPa	
+WEATHER_STATS: 2024-1-23	
+  Temperature: 3.0C - 8.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 35.3 km/h	
+  Pressure range: 8.9 hPa	
+WEATHER_STATS: 2024-1-24	
+  Temperature: 7.0C - 14.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.4mm	
+  Wind: up to 46.8 km/h	
+  Pressure range: 9.3 hPa	
+WEATHER_PHENOMENA: 2024-1-25 - Detected: very_high_humidity	
+  Temperature: 4.0C - 10.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 4.0 hPa	
+WEATHER_PHENOMENA: 2024-1-26 - Detected: very_high_humidity	
+  Temperature: 6.0C - 11.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 29.2 km/h	
+  Pressure range: 12.2 hPa	
+WEATHER_PHENOMENA: 2024-1-27 - Detected: very_high_humidity	
+  Temperature: -1.9C - 7.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 3.5 hPa	
+WEATHER_STATS: 2024-1-28	
+  Temperature: -0.7C - 9.0C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 5.6 hPa	
+WEATHER_PHENOMENA: 2024-1-29 - Detected: very_high_humidity	
+  Temperature: -3.0C - 8.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 1.6 hPa	
+WEATHER_PHENOMENA: 2024-1-2 - Detected: rapid_pressure_change	
+  Temperature: 6.0C - 10.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 41.4 km/h	
+  Pressure range: 15.1 hPa	
+WEATHER_PHENOMENA: 2024-1-30 - Detected: very_high_humidity	
+  Temperature: -2.3C - 8.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 2.8 hPa	
+WEATHER_PHENOMENA: 2024-1-31 - Detected: very_high_humidity	
+  Temperature: 2.0C - 9.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 5.5 hPa	
+WEATHER_STATS: 2024-1-3	
+  Temperature: 8.0C - 12.0C	
+  Humidity: up to 91.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 41.8 km/h	
+  Pressure range: 2.9 hPa	
+WEATHER_STATS: 2024-1-4	
+  Temperature: 6.0C - 10.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.4mm	
+  Wind: up to 34.6 km/h	
+  Pressure range: 10.4 hPa	
+WEATHER_STATS: 2024-1-5	
+  Temperature: 2.0C - 9.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_STATS: 2024-1-6	
+  Temperature: 3.0C - 7.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 7.8 hPa	
+WEATHER_STATS: 2024-1-7	
+  Temperature: -0.8C - 4.0C	
+  Humidity: up to 84.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 29.0 km/h	
+  Pressure range: 12.1 hPa	
+WEATHER_STATS: 2024-1-8	
+  Temperature: -5.6C - 0.0C	
+  Humidity: up to 67.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_STATS: 2024-1-9	
+  Temperature: -6.3C - 0.1C	
+  Humidity: up to 69.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 2.7 hPa	
+WEATHER_PHENOMENA: 2024-10-10 - Detected: very_high_humidity, rapid_pressure_change	
+  Temperature: 11.0C - 17.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 32.0 km/h	
+  Pressure range: 25.5 hPa	
+WEATHER_PHENOMENA: 2024-10-11 - Detected: very_high_humidity	
+  Temperature: 5.0C - 13.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 11.3 hPa	
+WEATHER_PHENOMENA: 2024-10-12 - Detected: very_high_humidity	
+  Temperature: 4.0C - 12.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 11.9 hPa	
+WEATHER_PHENOMENA: 2024-10-13 - Detected: very_high_humidity	
+  Temperature: 5.0C - 13.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 15.0 hPa	
+WEATHER_PHENOMENA: 2024-10-14 - Detected: very_high_humidity	
+  Temperature: 4.0C - 12.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 5.7 hPa	
+WEATHER_PHENOMENA: 2024-10-15 - Detected: very_high_humidity	
+  Temperature: 8.0C - 12.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 4.8 hPa	
+WEATHER_STATS: 2024-10-16	
+  Temperature: 12.0C - 16.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 4.5 hPa	
+WEATHER_PHENOMENA: 2024-10-17 - Detected: very_high_humidity	
+  Temperature: 10.0C - 19.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.7mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.1 hPa	
+WEATHER_STATS: 2024-10-18	
+  Temperature: 12.0C - 16.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 1.3 hPa	
+WEATHER_PHENOMENA: 2024-10-19 - Detected: very_high_humidity	
+  Temperature: 11.0C - 17.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 7.2 hPa	
+WEATHER_PHENOMENA: 2024-10-1 - Detected: very_high_humidity	
+  Temperature: 7.0C - 17.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 29.2 km/h	
+  Pressure range: 4.3 hPa	
+WEATHER_PHENOMENA: 2024-10-20 - Detected: very_high_humidity	
+  Temperature: 9.0C - 13.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 3.0 hPa	
+WEATHER_PHENOMENA: 2024-10-21 - Detected: very_high_humidity	
+  Temperature: 11.0C - 22.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_PHENOMENA: 2024-10-22 - Detected: very_high_humidity	
+  Temperature: 5.0C - 16.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 12.1 hPa	
+WEATHER_PHENOMENA: 2024-10-23 - Detected: very_high_humidity	
+  Temperature: 4.0C - 15.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 4.5 hPa	
+WEATHER_STATS: 2024-10-24	
+  Temperature: 8.0C - 14.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 9.0 km/h	
+  Pressure range: 9.3 hPa	
+WEATHER_PHENOMENA: 2024-10-25 - Detected: very_high_humidity	
+  Temperature: 9.0C - 19.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_STATS: 2024-10-26	
+  Temperature: 9.0C - 16.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 4.3 hPa	
+WEATHER_PHENOMENA: 2024-10-27 - Detected: very_high_humidity	
+  Temperature: 9.0C - 15.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 9.1 hPa	
+WEATHER_PHENOMENA: 2024-10-28 - Detected: very_high_humidity	
+  Temperature: 8.0C - 12.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 2.2 hPa	
+WEATHER_PHENOMENA: 2024-10-29 - Detected: very_high_humidity	
+  Temperature: 7.0C - 15.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 2.0 hPa	
+WEATHER_PHENOMENA: 2024-10-2 - Detected: very_high_humidity	
+  Temperature: 8.0C - 17.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.6mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 6.8 hPa	
+WEATHER_PHENOMENA: 2024-10-30 - Detected: very_high_humidity	
+  Temperature: 7.0C - 14.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 6.0 km/h	
+  Pressure range: 2.2 hPa	
+WEATHER_PHENOMENA: 2024-10-31 - Detected: very_high_humidity	
+  Temperature: 10.0C - 13.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_STATS: 2024-10-3	
+  Temperature: 10.0C - 13.0C	
+  Humidity: up to 84.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 4.2 hPa	
+WEATHER_STATS: 2024-10-4	
+  Temperature: 10.0C - 14.0C	
+  Humidity: up to 80.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 3.0 hPa	
+WEATHER_STATS: 2024-10-5	
+  Temperature: 5.0C - 15.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 4.5 hPa	
+WEATHER_STATS: 2024-10-6	
+  Temperature: 5.0C - 13.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 8.8 hPa	
+WEATHER_PHENOMENA: 2024-10-7 - Detected: very_high_humidity	
+  Temperature: 11.0C - 17.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 5.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 2.8 hPa	
+WEATHER_PHENOMENA: 2024-10-8 - Detected: very_high_humidity	
+  Temperature: 13.0C - 16.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 4.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 1.6 hPa	
+WEATHER_PHENOMENA: 2024-10-9 - Detected: very_high_humidity, rapid_pressure_change	
+  Temperature: 12.0C - 16.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 17.5 hPa	
+WEATHER_PHENOMENA: 2024-11-10 - Detected: very_high_humidity	
+  Temperature: 4.0C - 5.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 6.0 km/h	
+  Pressure range: 3.1 hPa	
+WEATHER_PHENOMENA: 2024-11-11 - Detected: very_high_humidity	
+  Temperature: 4.0C - 6.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 4.7 hPa	
+WEATHER_PHENOMENA: 2024-11-12 - Detected: very_high_humidity	
+  Temperature: 6.0C - 9.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 5.5 hPa	
+WEATHER_PHENOMENA: 2024-11-13 - Detected: very_high_humidity	
+  Temperature: 5.0C - 8.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.6mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 2.0 hPa	
+WEATHER_PHENOMENA: 2024-11-14 - Detected: very_high_humidity	
+  Temperature: 5.0C - 7.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.8mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 3.2 hPa	
+WEATHER_PHENOMENA: 2024-11-15 - Detected: very_high_humidity	
+  Temperature: 6.0C - 9.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 7.0 km/h	
+  Pressure range: 2.9 hPa	
+WEATHER_STATS: 2024-11-16	
+  Temperature: 5.0C - 7.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 7.8 hPa	
+WEATHER_STATS: 2024-11-17	
+  Temperature: 3.0C - 6.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.6mm	
+  Wind: up to 31.0 km/h	
+  Pressure range: 3.8 hPa	
+WEATHER_PHENOMENA: 2024-11-18 - Detected: very_high_humidity	
+  Temperature: 5.0C - 7.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 29.2 km/h	
+  Pressure range: 2.9 hPa	
+WEATHER_PHENOMENA: 2024-11-19 - Detected: very_high_humidity, rapid_pressure_change	
+  Temperature: 3.0C - 10.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 44.6 km/h	
+  Pressure range: 17.1 hPa	
+WEATHER_PHENOMENA: 2024-11-1 - Detected: very_high_humidity	
+  Temperature: 9.0C - 10.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 2.8 hPa	
+WEATHER_STATS: 2024-11-20	
+  Temperature: 1.0C - 5.0C	
+  Humidity: up to 82.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 28.0 km/h	
+  Pressure range: 9.2 hPa	
+WEATHER_STATS: 2024-11-21	
+  Temperature: -2.4C - 2.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 28.0 km/h	
+  Pressure range: 10.5 hPa	
+WEATHER_PHENOMENA: 2024-11-22 - Detected: rapid_pressure_change	
+  Temperature: -3.4C - 4.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 32.8 km/h	
+  Pressure range: 19.4 hPa	
+WEATHER_STATS: 2024-11-23	
+  Temperature: 2.0C - 5.0C	
+  Humidity: up to 84.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 6.6 hPa	
+WEATHER_STATS: 2024-11-24	
+  Temperature: 5.0C - 16.0C	
+  Humidity: up to 66.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 3.0 hPa	
+WEATHER_STATS: 2024-11-25	
+  Temperature: 6.0C - 16.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 6.5 hPa	
+WEATHER_PHENOMENA: 2024-11-26 - Detected: very_high_humidity	
+  Temperature: 2.0C - 11.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 9.2 hPa	
+WEATHER_PHENOMENA: 2024-11-27 - Detected: very_high_humidity	
+  Temperature: 2.0C - 11.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.8mm	
+  Wind: up to 30.0 km/h	
+  Pressure range: 9.4 hPa	
+WEATHER_STATS: 2024-11-28	
+  Temperature: 5.0C - 9.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 14.8 hPa	
+WEATHER_PHENOMENA: 2024-11-29 - Detected: very_high_humidity	
+  Temperature: -1.1C - 7.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.8 hPa	
+WEATHER_STATS: 2024-11-2	
+  Temperature: 8.0C - 13.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 4.6 hPa	
+WEATHER_STATS: 2024-11-30	
+  Temperature: -1.8C - 6.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 3.7 hPa	
+WEATHER_PHENOMENA: 2024-11-3 - Detected: very_high_humidity	
+  Temperature: 4.0C - 13.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 3.0 hPa	
+WEATHER_PHENOMENA: 2024-11-4 - Detected: very_high_humidity	
+  Temperature: 2.0C - 10.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 4.1 hPa	
+WEATHER_PHENOMENA: 2024-11-5 - Detected: very_high_humidity	
+  Temperature: 0.3C - 6.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 1.4 hPa	
+WEATHER_STATS: 2024-11-6	
+  Temperature: 4.0C - 7.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 7.0 km/h	
+  Pressure range: 6.0 hPa	
+WEATHER_STATS: 2024-11-7	
+  Temperature: 5.0C - 7.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 1.8 hPa	
+WEATHER_STATS: 2024-11-8	
+  Temperature: 5.0C - 7.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 5.0 hPa	
+WEATHER_STATS: 2024-11-9	
+  Temperature: 5.0C - 8.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 1.6 hPa	
+WEATHER_STATS: 2024-12-10	
+  Temperature: 3.0C - 5.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 4.5 hPa	
+WEATHER_STATS: 2024-12-11	
+  Temperature: 2.0C - 3.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 3.2 hPa	
+WEATHER_STATS: 2024-12-12	
+  Temperature: 1.0C - 2.0C	
+  Humidity: up to 81.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 9.0 km/h	
+  Pressure range: 1.1 hPa	
+WEATHER_STATS: 2024-12-13	
+  Temperature: 0.8C - 2.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 9.0 km/h	
+  Pressure range: 6.7 hPa	
+WEATHER_PHENOMENA: 2024-12-14 - Detected: very_high_humidity	
+  Temperature: -2.2C - 2.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 3.1 hPa	
+WEATHER_STATS: 2024-12-15	
+  Temperature: 2.0C - 7.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 29.2 km/h	
+  Pressure range: 8.6 hPa	
+WEATHER_STATS: 2024-12-16	
+  Temperature: 7.0C - 9.0C	
+  Humidity: up to 84.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 1.9 hPa	
+WEATHER_STATS: 2024-12-17	
+  Temperature: 6.0C - 8.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.5mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 6.5 hPa	
+WEATHER_STATS: 2024-12-18	
+  Temperature: 4.0C - 12.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 11.9 hPa	
+WEATHER_PHENOMENA: 2024-12-19 - Detected: rapid_pressure_change	
+  Temperature: 5.0C - 12.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 36.7 km/h	
+  Pressure range: 15.3 hPa	
+WEATHER_PHENOMENA: 2024-12-1 - Detected: very_high_humidity	
+  Temperature: -3.6C - 0.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 6.0 hPa	
+WEATHER_STATS: 2024-12-20	
+  Temperature: 1.0C - 7.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 24.0 km/h	
+  Pressure range: 10.1 hPa	
+WEATHER_STATS: 2024-12-21	
+  Temperature: 3.0C - 7.0C	
+  Humidity: up to 91.0%	
+  Precipitation: up to 0.5mm	
+  Wind: up to 36.0 km/h	
+  Pressure range: 13.6 hPa	
+WEATHER_PHENOMENA: 2024-12-22 - Detected: very_high_humidity	
+  Temperature: 1.0C - 7.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 4.0mm	
+  Wind: up to 37.8 km/h	
+  Pressure range: 8.1 hPa	
+WEATHER_STATS: 2024-12-23	
+  Temperature: -0.8C - 7.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 14.3 hPa	
+WEATHER_STATS: 2024-12-24	
+  Temperature: 1.0C - 6.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 10.8 hPa	
+WEATHER_PHENOMENA: 2024-12-25 - Detected: very_high_humidity	
+  Temperature: 2.0C - 6.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 4.4 hPa	
+WEATHER_STATS: 2024-12-26	
+  Temperature: -0.9C - 6.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 2.2 hPa	
+WEATHER_PHENOMENA: 2024-12-27 - Detected: very_high_humidity	
+  Temperature: -2.8C - 4.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 3.5 hPa	
+WEATHER_PHENOMENA: 2024-12-28 - Detected: very_high_humidity	
+  Temperature: -4.0C - -2.2C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 9.0 km/h	
+  Pressure range: 1.9 hPa	
+WEATHER_PHENOMENA: 2024-12-29 - Detected: very_high_humidity	
+  Temperature: -2.6C - -0.5C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 3.1 hPa	
+WEATHER_PHENOMENA: 2024-12-2 - Detected: very_high_humidity	
+  Temperature: 0.0C - 4.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 6.9 hPa	
+WEATHER_PHENOMENA: 2024-12-30 - Detected: very_high_humidity	
+  Temperature: -1.3C - 0.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 2.2 hPa	
+WEATHER_PHENOMENA: 2024-12-31 - Detected: very_high_humidity	
+  Temperature: -1.7C - 0.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 4.1 hPa	
+WEATHER_PHENOMENA: 2024-12-3 - Detected: very_high_humidity	
+  Temperature: 0.5C - 7.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 7.2 hPa	
+WEATHER_PHENOMENA: 2024-12-4 - Detected: very_high_humidity	
+  Temperature: -2.1C - 5.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 5.4 hPa	
+WEATHER_PHENOMENA: 2024-12-5 - Detected: very_high_humidity, rapid_pressure_change	
+  Temperature: -1.7C - 4.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 24.0 km/h	
+  Pressure range: 19.3 hPa	
+WEATHER_PHENOMENA: 2024-12-6 - Detected: very_high_humidity, rapid_pressure_change	
+  Temperature: 4.0C - 9.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 41.0 km/h	
+  Pressure range: 16.6 hPa	
+WEATHER_PHENOMENA: 2024-12-7 - Detected: rapid_pressure_change	
+  Temperature: 3.0C - 7.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 21.0 km/h	
+  Pressure range: 17.9 hPa	
+WEATHER_PHENOMENA: 2024-12-8 - Detected: rapid_pressure_change	
+  Temperature: 5.0C - 8.0C	
+  Humidity: up to 80.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 15.6 hPa	
+WEATHER_STATS: 2024-12-9	
+  Temperature: 4.0C - 6.0C	
+  Humidity: up to 80.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 8.9 hPa	
+WEATHER_PHENOMENA: 2024-2-10 - Detected: very_high_humidity	
+  Temperature: 8.0C - 13.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.8mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 3.8 hPa	
+WEATHER_PHENOMENA: 2024-2-11 - Detected: very_high_humidity	
+  Temperature: 7.0C - 10.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.4mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 10.0 hPa	
+WEATHER_PHENOMENA: 2024-2-12 - Detected: rapid_pressure_change	
+  Temperature: 2.0C - 10.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 16.5 hPa	
+WEATHER_PHENOMENA: 2024-2-13 - Detected: very_high_humidity	
+  Temperature: -0.6C - 9.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 24.0 km/h	
+  Pressure range: 5.0 hPa	
+WEATHER_PHENOMENA: 2024-2-14 - Detected: very_high_humidity	
+  Temperature: 5.0C - 10.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.7mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 1.9 hPa	
+WEATHER_PHENOMENA: 2024-2-15 - Detected: very_high_humidity	
+  Temperature: 9.0C - 15.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_PHENOMENA: 2024-2-16 - Detected: very_high_humidity	
+  Temperature: 7.0C - 16.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 8.5 hPa	
+WEATHER_PHENOMENA: 2024-2-17 - Detected: very_high_humidity	
+  Temperature: 6.0C - 13.0C	
+  Humidity: up to 100.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 11.3 hPa	
+WEATHER_PHENOMENA: 2024-2-18 - Detected: very_high_humidity	
+  Temperature: 4.0C - 10.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 10.1 hPa	
+WEATHER_STATS: 2024-2-19	
+  Temperature: 8.0C - 12.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 4.1 hPa	
+WEATHER_STATS: 2024-2-1	
+  Temperature: -1.0C - 10.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 28.0 km/h	
+  Pressure range: 7.1 hPa	
+WEATHER_STATS: 2024-2-20	
+  Temperature: 6.0C - 11.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_PHENOMENA: 2024-2-21 - Detected: rapid_pressure_change	
+  Temperature: 6.0C - 10.0C	
+  Humidity: up to 91.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 21.0 km/h	
+  Pressure range: 18.7 hPa	
+WEATHER_PHENOMENA: 2024-2-22 - Detected: very_high_humidity, rapid_pressure_change	
+  Temperature: 7.0C - 11.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 42.5 km/h	
+  Pressure range: 19.5 hPa	
+WEATHER_STATS: 2024-2-23	
+  Temperature: 4.0C - 9.0C	
+  Humidity: up to 82.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 39.6 km/h	
+  Pressure range: 4.9 hPa	
+WEATHER_STATS: 2024-2-24	
+  Temperature: 0.5C - 8.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 8.8 hPa	
+WEATHER_PHENOMENA: 2024-2-25 - Detected: very_high_humidity	
+  Temperature: 0.6C - 9.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 7.5 hPa	
+WEATHER_STATS: 2024-2-26	
+  Temperature: 5.0C - 10.0C	
+  Humidity: up to 91.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 11.1 hPa	
+WEATHER_STATS: 2024-2-27	
+  Temperature: 5.0C - 11.0C	
+  Humidity: up to 81.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 8.9 hPa	
+WEATHER_PHENOMENA: 2024-2-28 - Detected: very_high_humidity	
+  Temperature: -0.5C - 10.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 9.0 km/h	
+  Pressure range: 4.5 hPa	
+WEATHER_PHENOMENA: 2024-2-29 - Detected: very_high_humidity	
+  Temperature: -1.6C - 10.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 8.0 km/h	
+  Pressure range: 13.5 hPa	
+WEATHER_STATS: 2024-2-2	
+  Temperature: -0.5C - 10.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 31.0 km/h	
+  Pressure range: 5.6 hPa	
+WEATHER_STATS: 2024-2-3	
+  Temperature: 7.0C - 11.0C	
+  Humidity: up to 88.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 28.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_STATS: 2024-2-4	
+  Temperature: 8.0C - 11.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.5mm	
+  Wind: up to 39.6 km/h	
+  Pressure range: 3.5 hPa	
+WEATHER_STATS: 2024-2-5	
+  Temperature: 7.0C - 11.0C	
+  Humidity: up to 82.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 41.8 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_STATS: 2024-2-6	
+  Temperature: 6.0C - 9.0C	
+  Humidity: up to 84.0%	
+  Precipitation: up to 0.6mm	
+  Wind: up to 36.0 km/h	
+  Pressure range: 8.9 hPa	
+WEATHER_STATS: 2024-2-7	
+  Temperature: 3.0C - 11.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 39.6 km/h	
+  Pressure range: 7.5 hPa	
+WEATHER_PHENOMENA: 2024-2-8 - Detected: very_high_humidity	
+  Temperature: 3.0C - 11.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 9.4 hPa	
+WEATHER_STATS: 2024-2-9	
+  Temperature: 9.0C - 14.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.9mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 4.2 hPa	
+WEATHER_STATS: 2024-3-10	
+  Temperature: 6.0C - 13.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 4.1 hPa	
+WEATHER_STATS: 2024-3-11	
+  Temperature: 4.0C - 13.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 29.0 km/h	
+  Pressure range: 13.0 hPa	
+WEATHER_STATS: 2024-3-12	
+  Temperature: 4.0C - 11.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 5.9 hPa	
+WEATHER_PHENOMENA: 2024-3-13 - Detected: very_high_humidity	
+  Temperature: 7.0C - 12.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.7mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 2.2 hPa	
+WEATHER_PHENOMENA: 2024-3-14 - Detected: very_high_humidity	
+  Temperature: 6.0C - 16.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 5.3 hPa	
+WEATHER_PHENOMENA: 2024-3-15 - Detected: very_high_humidity	
+  Temperature: 6.0C - 15.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.7mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 2.1 hPa	
+WEATHER_STATS: 2024-3-16	
+  Temperature: 6.0C - 13.0C	
+  Humidity: up to 88.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 11.9 hPa	
+WEATHER_PHENOMENA: 2024-3-17 - Detected: very_high_humidity	
+  Temperature: 1.0C - 13.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 9.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_PHENOMENA: 2024-3-18 - Detected: very_high_humidity	
+  Temperature: 7.0C - 14.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.8 hPa	
+WEATHER_PHENOMENA: 2024-3-19 - Detected: very_high_humidity	
+  Temperature: 6.0C - 15.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 8.0 km/h	
+  Pressure range: 2.3 hPa	
+WEATHER_PHENOMENA: 2024-3-1 - Detected: very_high_humidity	
+  Temperature: -1.0C - 9.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 2.4 hPa	
+WEATHER_PHENOMENA: 2024-3-20 - Detected: very_high_humidity	
+  Temperature: 5.0C - 19.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 8.0 km/h	
+  Pressure range: 2.6 hPa	
+WEATHER_PHENOMENA: 2024-3-21 - Detected: very_high_humidity	
+  Temperature: 4.0C - 16.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 5.7 hPa	
+WEATHER_STATS: 2024-3-22	
+  Temperature: 4.0C - 17.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 13.7 hPa	
+WEATHER_STATS: 2024-3-23	
+  Temperature: 2.0C - 10.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.4mm	
+  Wind: up to 32.4 km/h	
+  Pressure range: 6.2 hPa	
+WEATHER_STATS: 2024-3-24	
+  Temperature: 4.0C - 9.0C	
+  Humidity: up to 85.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 33.5 km/h	
+  Pressure range: 4.0 hPa	
+WEATHER_STATS: 2024-3-25	
+  Temperature: 4.0C - 11.0C	
+  Humidity: up to 75.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 9.0 hPa	
+WEATHER_STATS: 2024-3-26	
+  Temperature: 4.0C - 14.0C	
+  Humidity: up to 71.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 11.4 hPa	
+WEATHER_STATS: 2024-3-27	
+  Temperature: 5.0C - 13.0C	
+  Humidity: up to 77.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 29.0 km/h	
+  Pressure range: 4.5 hPa	
+WEATHER_PHENOMENA: 2024-3-28 - Detected: very_high_humidity	
+  Temperature: 2.0C - 13.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 42.5 km/h	
+  Pressure range: 10.9 hPa	
+WEATHER_PHENOMENA: 2024-3-29 - Detected: very_high_humidity	
+  Temperature: 4.0C - 12.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_PHENOMENA: 2024-3-2 - Detected: very_high_humidity	
+  Temperature: 1.0C - 14.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 4.0 hPa	
+WEATHER_PHENOMENA: 2024-3-30 - Detected: very_high_humidity	
+  Temperature: 7.0C - 14.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 3.3 hPa	
+WEATHER_PHENOMENA: 2024-3-31 - Detected: very_high_humidity	
+  Temperature: 8.0C - 19.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 5.8 hPa	
+WEATHER_STATS: 2024-3-3	
+  Temperature: 6.0C - 15.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 4.8 hPa	
+WEATHER_STATS: 2024-3-4	
+  Temperature: 3.0C - 10.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 9.4 hPa	
+WEATHER_STATS: 2024-3-5	
+  Temperature: 5.0C - 9.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 4.4 hPa	
+WEATHER_PHENOMENA: 2024-3-6 - Detected: very_high_humidity	
+  Temperature: 0.1C - 11.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_STATS: 2024-3-7	
+  Temperature: 2.0C - 9.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 5.6 hPa	
+WEATHER_STATS: 2024-3-8	
+  Temperature: 0.3C - 11.0C	
+  Humidity: up to 79.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 10.4 hPa	
+WEATHER_STATS: 2024-3-9	
+  Temperature: 1.0C - 13.0C	
+  Humidity: up to 81.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 9.5 hPa	
+WEATHER_STATS: 2024-4-10	
+  Temperature: 4.0C - 15.0C	
+  Humidity: up to 90.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 10.0 hPa	
+WEATHER_PHENOMENA: 2024-4-11 - Detected: large_daily_temp_range	
+  Temperature: 0.7C - 18.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 2.3 hPa	
+WEATHER_STATS: 2024-4-12	
+  Temperature: 4.0C - 19.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 3.9 hPa	
+WEATHER_PHENOMENA: 2024-4-13 - Detected: large_daily_temp_range, very_high_humidity	
+  Temperature: 7.0C - 23.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 8.8 hPa	
+WEATHER_PHENOMENA: 2024-4-14 - Detected: very_high_humidity	
+  Temperature: 10.0C - 21.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 6.0 hPa	
+WEATHER_STATS: 2024-4-15	
+  Temperature: 5.0C - 17.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.9mm	
+  Wind: up to 49.7 km/h	
+  Pressure range: 13.1 hPa	
+WEATHER_PHENOMENA: 2024-4-16 - Detected: strong_wind	
+  Temperature: 4.0C - 11.0C	
+  Humidity: up to 85.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 52.6 km/h	
+  Pressure range: 5.7 hPa	
+WEATHER_STATS: 2024-4-17	
+  Temperature: 4.0C - 10.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 3.8 hPa	
+WEATHER_PHENOMENA: 2024-4-18 - Detected: very_high_humidity	
+  Temperature: 1.0C - 12.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 7.0 hPa	
+WEATHER_STATS: 2024-4-19	
+  Temperature: 4.0C - 8.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 35.3 km/h	
+  Pressure range: 11.2 hPa	
+WEATHER_PHENOMENA: 2024-4-1 - Detected: very_high_humidity	
+  Temperature: 8.0C - 11.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 33.1 km/h	
+  Pressure range: 12.5 hPa	
+WEATHER_STATS: 2024-4-20	
+  Temperature: 4.0C - 9.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 8.6 hPa	
+WEATHER_STATS: 2024-4-21	
+  Temperature: 2.0C - 8.0C	
+  Humidity: up to 88.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 28.0 km/h	
+  Pressure range: 5.5 hPa	
+WEATHER_STATS: 2024-4-22	
+  Temperature: -0.3C - 9.0C	
+  Humidity: up to 84.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 3.5 hPa	
+WEATHER_STATS: 2024-4-23	
+  Temperature: -0.3C - 11.0C	
+  Humidity: up to 81.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 7.1 hPa	
+WEATHER_STATS: 2024-4-24	
+  Temperature: 1.0C - 10.0C	
+  Humidity: up to 81.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 21.0 km/h	
+  Pressure range: 7.3 hPa	
+WEATHER_STATS: 2024-4-25	
+  Temperature: 1.0C - 10.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 2.6 hPa	
+WEATHER_STATS: 2024-4-26	
+  Temperature: 0.4C - 14.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 2.7 hPa	
+WEATHER_PHENOMENA: 2024-4-27 - Detected: large_daily_temp_range, very_high_humidity	
+  Temperature: 3.0C - 22.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 3.8 hPa	
+WEATHER_STATS: 2024-4-28	
+  Temperature: 10.0C - 18.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 29.0 km/h	
+  Pressure range: 12.8 hPa	
+WEATHER_STATS: 2024-4-29	
+  Temperature: 8.0C - 20.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 3.1 hPa	
+WEATHER_STATS: 2024-4-2	
+  Temperature: 7.0C - 13.0C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 42.8 km/h	
+  Pressure range: 5.8 hPa	
+WEATHER_PHENOMENA: 2024-4-30 - Detected: large_daily_temp_range	
+  Temperature: 7.0C - 26.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 9.4 hPa	
+WEATHER_STATS: 2024-4-3	
+  Temperature: 7.0C - 12.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.8mm	
+  Wind: up to 24.0 km/h	
+  Pressure range: 3.4 hPa	
+WEATHER_STATS: 2024-4-4	
+  Temperature: 8.0C - 16.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.9mm	
+  Wind: up to 40.3 km/h	
+  Pressure range: 5.5 hPa	
+WEATHER_PHENOMENA: 2024-4-5 - Detected: very_high_humidity	
+  Temperature: 9.0C - 20.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 32.4 km/h	
+  Pressure range: 4.0 hPa	
+WEATHER_STATS: 2024-4-6	
+  Temperature: 11.0C - 25.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 4.2 hPa	
+WEATHER_STATS: 2024-4-7	
+  Temperature: 10.0C - 23.0C	
+  Humidity: up to 84.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 6.7 hPa	
+WEATHER_STATS: 2024-4-8	
+  Temperature: 12.0C - 26.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 6.6 hPa	
+WEATHER_PHENOMENA: 2024-4-9 - Detected: rapid_pressure_change	
+  Temperature: 9.0C - 17.0C	
+  Humidity: up to 79.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 37.4 km/h	
+  Pressure range: 17.8 hPa	
+WEATHER_STATS: 2024-5-10	
+  Temperature: 10.0C - 22.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 3.1 hPa	
+WEATHER_STATS: 2024-5-11	
+  Temperature: 11.0C - 24.0C	
+  Humidity: up to 76.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_STATS: 2024-5-12	
+  Temperature: 14.0C - 25.0C	
+  Humidity: up to 72.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 5.9 hPa	
+WEATHER_STATS: 2024-5-13	
+  Temperature: 13.0C - 24.0C	
+  Humidity: up to 91.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 4.7 hPa	
+WEATHER_STATS: 2024-5-14	
+  Temperature: 13.0C - 26.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 4.7 hPa	
+WEATHER_STATS: 2024-5-15	
+  Temperature: 13.0C - 18.0C	
+  Humidity: up to 90.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 2.8 hPa	
+WEATHER_PHENOMENA: 2024-5-16 - Detected: very_high_humidity	
+  Temperature: 13.0C - 21.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.8mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_STATS: 2024-5-17	
+  Temperature: 14.0C - 16.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 4.5 hPa	
+WEATHER_PHENOMENA: 2024-5-18 - Detected: very_high_humidity	
+  Temperature: 12.0C - 17.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 3.1 hPa	
+WEATHER_PHENOMENA: 2024-5-19 - Detected: very_high_humidity	
+  Temperature: 10.0C - 18.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 4.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 1.6 hPa	
+WEATHER_STATS: 2024-5-1	
+  Temperature: 12.0C - 26.0C	
+  Humidity: up to 82.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 8.9 hPa	
+WEATHER_PHENOMENA: 2024-5-20 - Detected: very_high_humidity	
+  Temperature: 8.0C - 23.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 3.5 hPa	
+WEATHER_PHENOMENA: 2024-5-21 - Detected: very_high_humidity, heavy_precipitation	
+  Temperature: 13.0C - 20.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 12.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 3.3 hPa	
+WEATHER_PHENOMENA: 2024-5-22 - Detected: very_high_humidity	
+  Temperature: 10.0C - 20.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 26.0 km/h	
+  Pressure range: 7.4 hPa	
+WEATHER_PHENOMENA: 2024-5-23 - Detected: very_high_humidity	
+  Temperature: 8.0C - 22.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 3.0 hPa	
+WEATHER_PHENOMENA: 2024-5-24 - Detected: very_high_humidity	
+  Temperature: 13.0C - 20.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 5.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 1.9 hPa	
+WEATHER_PHENOMENA: 2024-5-25 - Detected: very_high_humidity	
+  Temperature: 11.0C - 22.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 1.9 hPa	
+WEATHER_PHENOMENA: 2024-5-26 - Detected: very_high_humidity	
+  Temperature: 11.0C - 23.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 2.4 hPa	
+WEATHER_STATS: 2024-5-27	
+  Temperature: 13.0C - 22.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 3.2 hPa	
+WEATHER_STATS: 2024-5-28	
+  Temperature: 10.0C - 19.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_STATS: 2024-5-29	
+  Temperature: 13.0C - 18.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.8mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 7.9 hPa	
+WEATHER_STATS: 2024-5-2	
+  Temperature: 12.0C - 24.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 4.0mm	
+  Wind: up to 30.0 km/h	
+  Pressure range: 7.3 hPa	
+WEATHER_PHENOMENA: 2024-5-30 - Detected: very_high_humidity	
+  Temperature: 13.0C - 19.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 4.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 4.1 hPa	
+WEATHER_PHENOMENA: 2024-5-31 - Detected: very_high_humidity	
+  Temperature: 13.0C - 18.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 3.8 hPa	
+WEATHER_STATS: 2024-5-3	
+  Temperature: 8.0C - 16.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 26.0 km/h	
+  Pressure range: 11.9 hPa	
+WEATHER_PHENOMENA: 2024-5-4 - Detected: very_high_humidity	
+  Temperature: 6.0C - 18.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 0.5mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 7.6 hPa	
+WEATHER_STATS: 2024-5-5	
+  Temperature: 12.0C - 18.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_PHENOMENA: 2024-5-6 - Detected: very_high_humidity	
+  Temperature: 11.0C - 17.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 4.7 hPa	
+WEATHER_STATS: 2024-5-7	
+  Temperature: 10.0C - 17.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 9.7 hPa	
+WEATHER_STATS: 2024-5-8	
+  Temperature: 8.0C - 18.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 5.6 hPa	
+WEATHER_PHENOMENA: 2024-5-9 - Detected: very_high_humidity	
+  Temperature: 7.0C - 21.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 4.6 hPa	
+WEATHER_STATS: 2024-6-10	
+  Temperature: 8.0C - 20.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 40.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_STATS: 2024-6-11	
+  Temperature: 8.0C - 17.0C	
+  Humidity: up to 77.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 5.9 hPa	
+WEATHER_STATS: 2024-6-12	
+  Temperature: 6.0C - 18.0C	
+  Humidity: up to 88.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 1.8 hPa	
+WEATHER_STATS: 2024-6-13	
+  Temperature: 8.0C - 20.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 5.6 hPa	
+WEATHER_STATS: 2024-6-14	
+  Temperature: 11.0C - 19.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.6mm	
+  Wind: up to 26.0 km/h	
+  Pressure range: 7.4 hPa	
+WEATHER_STATS: 2024-6-15	
+  Temperature: 13.0C - 21.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 42.1 km/h	
+  Pressure range: 5.9 hPa	
+WEATHER_STATS: 2024-6-16	
+  Temperature: 12.0C - 20.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 2.2 hPa	
+WEATHER_PHENOMENA: 2024-6-17 - Detected: very_high_humidity	
+  Temperature: 14.0C - 23.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 3.9 hPa	
+WEATHER_PHENOMENA: 2024-6-18 - Detected: very_high_humidity	
+  Temperature: 13.0C - 26.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.4mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 5.9 hPa	
+WEATHER_PHENOMENA: 2024-6-19 - Detected: very_high_humidity	
+  Temperature: 14.0C - 19.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 9.7 hPa	
+WEATHER_STATS: 2024-6-1	
+  Temperature: 15.0C - 18.0C	
+  Humidity: up to 90.0%	
+  Precipitation: up to 2.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 5.0 hPa	
+WEATHER_STATS: 2024-6-20	
+  Temperature: 13.0C - 24.0C	
+  Humidity: up to 90.0%	
+  Precipitation: up to 0.1mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_PHENOMENA: 2024-6-21 - Detected: heavy_precipitation	
+  Temperature: 16.0C - 24.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 11.0mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 4.7 hPa	
+WEATHER_STATS: 2024-6-22	
+  Temperature: 11.0C - 20.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 4.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 3.3 hPa	
+WEATHER_PHENOMENA: 2024-6-23 - Detected: very_high_humidity	
+  Temperature: 12.0C - 24.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 3.3 hPa	
+WEATHER_STATS: 2024-6-24	
+  Temperature: 14.0C - 27.0C	
+  Humidity: up to 88.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 4.2 hPa	
+WEATHER_STATS: 2024-6-25	
+  Temperature: 17.0C - 29.0C	
+  Humidity: up to 70.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 6.0 hPa	
+WEATHER_STATS: 2024-6-26	
+  Temperature: 18.0C - 31.2C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 5.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 4.4 hPa	
+WEATHER_PHENOMENA: 2024-6-27 - Detected: very_high_humidity	
+  Temperature: 19.0C - 31.2C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 3.3 hPa	
+WEATHER_STATS: 2024-6-28	
+  Temperature: 15.0C - 27.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 6.5 hPa	
+WEATHER_PHENOMENA: 2024-6-29 - Detected: large_daily_temp_range	
+  Temperature: 13.0C - 31.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 14.1 hPa	
+WEATHER_STATS: 2024-6-2	
+  Temperature: 14.0C - 19.0C	
+  Humidity: up to 84.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 3.9 hPa	
+WEATHER_STATS: 2024-6-30	
+  Temperature: 16.0C - 21.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 5.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 8.5 hPa	
+WEATHER_STATS: 2024-6-3	
+  Temperature: 9.0C - 19.0C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_STATS: 2024-6-4	
+  Temperature: 8.0C - 22.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 8.0 hPa	
+WEATHER_STATS: 2024-6-5	
+  Temperature: 11.0C - 22.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.6mm	
+  Wind: up to 26.0 km/h	
+  Pressure range: 5.9 hPa	
+WEATHER_PHENOMENA: 2024-6-6 - Detected: very_high_humidity	
+  Temperature: 9.0C - 23.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_PHENOMENA: 2024-6-7 - Detected: large_daily_temp_range	
+  Temperature: 6.0C - 23.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 3.7 hPa	
+WEATHER_PHENOMENA: 2024-6-8 - Detected: large_daily_temp_range, very_high_humidity	
+  Temperature: 8.0C - 24.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 8.2 hPa	
+WEATHER_STATS: 2024-6-9	
+  Temperature: 12.0C - 22.0C	
+  Humidity: up to 80.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 5.1 hPa	
+WEATHER_STATS: 2024-7-10	
+  Temperature: 19.0C - 27.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.8mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 4.2 hPa	
+WEATHER_PHENOMENA: 2024-7-11 - Detected: very_high_humidity	
+  Temperature: 19.0C - 27.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 3.0 hPa	
+WEATHER_STATS: 2024-7-12	
+  Temperature: 15.0C - 26.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 4.0mm	
+  Wind: up to 35.6 km/h	
+  Pressure range: 5.9 hPa	
+WEATHER_STATS: 2024-7-13	
+  Temperature: 12.0C - 23.0C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 21.0 km/h	
+  Pressure range: 1.4 hPa	
+WEATHER_PHENOMENA: 2024-7-14 - Detected: very_high_humidity	
+  Temperature: 11.0C - 25.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 2.2 hPa	
+WEATHER_PHENOMENA: 2024-7-15 - Detected: large_daily_temp_range, very_high_humidity	
+  Temperature: 11.0C - 30.2C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 7.0 hPa	
+WEATHER_PHENOMENA: 2024-7-16 - Detected: very_high_humidity	
+  Temperature: 15.0C - 24.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 36.7 km/h	
+  Pressure range: 6.9 hPa	
+WEATHER_STATS: 2024-7-17	
+  Temperature: 14.0C - 25.0C	
+  Humidity: up to 91.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 4.8 hPa	
+WEATHER_STATS: 2024-7-18	
+  Temperature: 15.0C - 28.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 3.1 hPa	
+WEATHER_STATS: 2024-7-19	
+  Temperature: 18.0C - 31.2C	
+  Humidity: up to 74.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_PHENOMENA: 2024-7-1 - Detected: very_high_humidity	
+  Temperature: 15.0C - 21.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 3.7 hPa	
+WEATHER_STATS: 2024-7-20	
+  Temperature: 19.0C - 32.8C	
+  Humidity: up to 80.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 7.7 hPa	
+WEATHER_STATS: 2024-7-21	
+  Temperature: 20.0C - 29.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 6.0 hPa	
+WEATHER_STATS: 2024-7-22	
+  Temperature: 18.0C - 26.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 6.4 hPa	
+WEATHER_STATS: 2024-7-23	
+  Temperature: 14.0C - 25.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 31.0 km/h	
+  Pressure range: 2.7 hPa	
+WEATHER_STATS: 2024-7-24	
+  Temperature: 14.0C - 24.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 2.9 hPa	
+WEATHER_STATS: 2024-7-25	
+  Temperature: 13.0C - 26.0C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 6.6 hPa	
+WEATHER_STATS: 2024-7-26	
+  Temperature: 16.0C - 23.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 2.6 hPa	
+WEATHER_PHENOMENA: 2024-7-27 - Detected: very_high_humidity, heavy_precipitation	
+  Temperature: 18.0C - 22.0C	
+  Humidity: up to 99.0%	
+  Precipitation: up to 8.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 4.4 hPa	
+WEATHER_PHENOMENA: 2024-7-28 - Detected: very_high_humidity	
+  Temperature: 15.0C - 25.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 8.0 hPa	
+WEATHER_STATS: 2024-7-29	
+  Temperature: 14.0C - 27.0C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 5.3 hPa	
+WEATHER_STATS: 2024-7-2	
+  Temperature: 12.0C - 19.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 3.8 hPa	
+WEATHER_PHENOMENA: 2024-7-30 - Detected: large_daily_temp_range	
+  Temperature: 16.0C - 31.2C	
+  Humidity: up to 80.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 5.7 hPa	
+WEATHER_STATS: 2024-7-31	
+  Temperature: 19.0C - 31.0C	
+  Humidity: up to 85.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 3.0 hPa	
+WEATHER_PHENOMENA: 2024-7-3 - Detected: very_high_humidity	
+  Temperature: 11.0C - 17.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 3.2 hPa	
+WEATHER_PHENOMENA: 2024-7-4 - Detected: very_high_humidity	
+  Temperature: 12.0C - 22.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.4mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 4.9 hPa	
+WEATHER_STATS: 2024-7-5	
+  Temperature: 10.0C - 23.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 5.0 hPa	
+WEATHER_PHENOMENA: 2024-7-6 - Detected: very_high_humidity	
+  Temperature: 13.0C - 25.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 30.0 km/h	
+  Pressure range: 8.6 hPa	
+WEATHER_PHENOMENA: 2024-7-7 - Detected: very_high_humidity	
+  Temperature: 8.0C - 22.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 3.7 hPa	
+WEATHER_PHENOMENA: 2024-7-8 - Detected: large_daily_temp_range	
+  Temperature: 9.0C - 26.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 2.1 hPa	
+WEATHER_PHENOMENA: 2024-7-9 - Detected: large_daily_temp_range	
+  Temperature: 17.0C - 32.6C	
+  Humidity: up to 76.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_STATS: 2024-8-10	
+  Temperature: 16.0C - 29.2C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 1.9 hPa	
+WEATHER_STATS: 2024-8-11	
+  Temperature: 15.0C - 30.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 5.3 hPa	
+WEATHER_STATS: 2024-8-12	
+  Temperature: 20.0C - 33.2C	
+  Humidity: up to 81.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 6.9 hPa	
+WEATHER_PHENOMENA: 2024-8-13 - Detected: large_daily_temp_range, heavy_precipitation	
+  Temperature: 19.0C - 34.9C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 7.0mm	
+  Wind: up to 19.0 km/h	
+  Pressure range: 3.2 hPa	
+WEATHER_STATS: 2024-8-14	
+  Temperature: 20.0C - 29.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 6.4 hPa	
+WEATHER_PHENOMENA: 2024-8-15 - Detected: very_high_humidity	
+  Temperature: 17.0C - 29.2C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 3.0 hPa	
+WEATHER_STATS: 2024-8-16	
+  Temperature: 17.0C - 30.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 3.9 hPa	
+WEATHER_PHENOMENA: 2024-8-17 - Detected: very_high_humidity, heavy_precipitation	
+  Temperature: 15.0C - 28.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 8.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 4.3 hPa	
+WEATHER_PHENOMENA: 2024-8-18 - Detected: very_high_humidity	
+  Temperature: 16.0C - 21.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 24.0 km/h	
+  Pressure range: 6.9 hPa	
+WEATHER_PHENOMENA: 2024-8-19 - Detected: very_high_humidity	
+  Temperature: 13.0C - 24.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.6 hPa	
+WEATHER_PHENOMENA: 2024-8-1 - Detected: very_high_humidity, heavy_precipitation	
+  Temperature: 17.0C - 24.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 6.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 2.6 hPa	
+WEATHER_STATS: 2024-8-20	
+  Temperature: 14.0C - 23.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 5.7 hPa	
+WEATHER_STATS: 2024-8-21	
+  Temperature: 11.0C - 23.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 21.0 km/h	
+  Pressure range: 6.4 hPa	
+WEATHER_PHENOMENA: 2024-8-22 - Detected: very_high_humidity	
+  Temperature: 9.0C - 24.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 7.3 hPa	
+WEATHER_PHENOMENA: 2024-8-23 - Detected: large_daily_temp_range	
+  Temperature: 11.0C - 28.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 33.8 km/h	
+  Pressure range: 3.3 hPa	
+WEATHER_PHENOMENA: 2024-8-24 - Detected: large_daily_temp_range, very_high_humidity	
+  Temperature: 14.0C - 32.5C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 8.5 hPa	
+WEATHER_STATS: 2024-8-25	
+  Temperature: 10.0C - 22.0C	
+  Humidity: up to 92.0%	
+  Precipitation: up to 0.7mm	
+  Wind: up to 24.0 km/h	
+  Pressure range: 11.5 hPa	
+WEATHER_PHENOMENA: 2024-8-26 - Detected: large_daily_temp_range	
+  Temperature: 7.0C - 24.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.4 hPa	
+WEATHER_PHENOMENA: 2024-8-27 - Detected: large_daily_temp_range	
+  Temperature: 11.0C - 28.0C	
+  Humidity: up to 85.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 13.0 km/h	
+  Pressure range: 5.9 hPa	
+WEATHER_PHENOMENA: 2024-8-28 - Detected: large_daily_temp_range	
+  Temperature: 16.0C - 31.2C	
+  Humidity: up to 82.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_PHENOMENA: 2024-8-29 - Detected: large_daily_temp_range	
+  Temperature: 15.0C - 33.9C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 12.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_STATS: 2024-8-2	
+  Temperature: 19.0C - 27.0C	
+  Humidity: up to 89.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 2.6 hPa	
+WEATHER_STATS: 2024-8-30	
+  Temperature: 18.0C - 29.0C	
+  Humidity: up to 90.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 28.0 km/h	
+  Pressure range: 2.6 hPa	
+WEATHER_STATS: 2024-8-31	
+  Temperature: 18.0C - 30.0C	
+  Humidity: up to 80.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 3.8 hPa	
+WEATHER_PHENOMENA: 2024-8-3 - Detected: very_high_humidity	
+  Temperature: 16.0C - 25.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.8mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 2.8 hPa	
+WEATHER_STATS: 2024-8-4	
+  Temperature: 16.0C - 23.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 24.0 km/h	
+  Pressure range: 2.5 hPa	
+WEATHER_STATS: 2024-8-5	
+  Temperature: 15.0C - 26.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.7 hPa	
+WEATHER_STATS: 2024-8-6	
+  Temperature: 15.0C - 28.0C	
+  Humidity: up to 90.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 11.0 km/h	
+  Pressure range: 4.1 hPa	
+WEATHER_PHENOMENA: 2024-8-7 - Detected: very_high_humidity	
+  Temperature: 15.0C - 27.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.5mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 4.0 hPa	
+WEATHER_STATS: 2024-8-8	
+  Temperature: 15.0C - 25.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 2.7 hPa	
+WEATHER_STATS: 2024-8-9	
+  Temperature: 13.0C - 28.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 30.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_STATS: 2024-9-10	
+  Temperature: 13.0C - 20.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 29.2 km/h	
+  Pressure range: 5.3 hPa	
+WEATHER_PHENOMENA: 2024-9-11 - Detected: very_high_humidity, heavy_precipitation	
+  Temperature: 7.0C - 16.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 6.0mm	
+  Wind: up to 33.1 km/h	
+  Pressure range: 6.4 hPa	
+WEATHER_PHENOMENA: 2024-9-12 - Detected: very_high_humidity	
+  Temperature: 6.0C - 14.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.7mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 4.8 hPa	
+WEATHER_PHENOMENA: 2024-9-13 - Detected: very_high_humidity	
+  Temperature: 4.0C - 16.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.6mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 9.4 hPa	
+WEATHER_STATS: 2024-9-14	
+  Temperature: 9.0C - 15.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 20.0 km/h	
+  Pressure range: 2.4 hPa	
+WEATHER_STATS: 2024-9-15	
+  Temperature: 6.0C - 18.0C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 5.5 hPa	
+WEATHER_STATS: 2024-9-16	
+  Temperature: 9.0C - 16.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 1.6 hPa	
+WEATHER_STATS: 2024-9-17	
+  Temperature: 13.0C - 22.0C	
+  Humidity: up to 77.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 27.0 km/h	
+  Pressure range: 2.1 hPa	
+WEATHER_STATS: 2024-9-18	
+  Temperature: 16.0C - 25.0C	
+  Humidity: up to 83.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 2.9 hPa	
+WEATHER_STATS: 2024-9-19	
+  Temperature: 15.0C - 24.0C	
+  Humidity: up to 82.0%	
+  Precipitation: up to 0.3mm	
+  Wind: up to 22.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_STATS: 2024-9-1	
+  Temperature: 19.0C - 32.5C	
+  Humidity: up to 73.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 14.0 km/h	
+  Pressure range: 5.8 hPa	
+WEATHER_STATS: 2024-9-20	
+  Temperature: 14.0C - 24.0C	
+  Humidity: up to 81.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 2.0 hPa	
+WEATHER_STATS: 2024-9-21	
+  Temperature: 12.0C - 23.0C	
+  Humidity: up to 86.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 3.6 hPa	
+WEATHER_PHENOMENA: 2024-9-22 - Detected: very_high_humidity	
+  Temperature: 11.0C - 23.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 9.0 km/h	
+  Pressure range: 5.8 hPa	
+WEATHER_PHENOMENA: 2024-9-23 - Detected: very_high_humidity	
+  Temperature: 14.0C - 19.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 3.4 hPa	
+WEATHER_PHENOMENA: 2024-9-24 - Detected: very_high_humidity	
+  Temperature: 13.0C - 17.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 30.2 km/h	
+  Pressure range: 2.4 hPa	
+WEATHER_STATS: 2024-9-25	
+  Temperature: 13.0C - 17.0C	
+  Humidity: up to 93.0%	
+  Precipitation: up to 1.0mm	
+  Wind: up to 25.0 km/h	
+  Pressure range: 6.3 hPa	
+WEATHER_PHENOMENA: 2024-9-26 - Detected: very_high_humidity	
+  Temperature: 13.0C - 18.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 5.0mm	
+  Wind: up to 31.0 km/h	
+  Pressure range: 7.2 hPa	
+WEATHER_STATS: 2024-9-27	
+  Temperature: 11.0C - 17.0C	
+  Humidity: up to 81.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 40.0 km/h	
+  Pressure range: 7.7 hPa	
+WEATHER_PHENOMENA: 2024-9-28 - Detected: rapid_pressure_change	
+  Temperature: 6.0C - 15.0C	
+  Humidity: up to 94.0%	
+  Precipitation: up to 0.2mm	
+  Wind: up to 23.0 km/h	
+  Pressure range: 19.2 hPa	
+WEATHER_PHENOMENA: 2024-9-29 - Detected: very_high_humidity	
+  Temperature: 3.0C - 14.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 8.7 hPa	
+WEATHER_STATS: 2024-9-2	
+  Temperature: 19.0C - 28.0C	
+  Humidity: up to 87.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 2.2 hPa	
+WEATHER_PHENOMENA: 2024-9-30 - Detected: very_high_humidity	
+  Temperature: 7.0C - 14.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 0.7mm	
+  Wind: up to 16.0 km/h	
+  Pressure range: 9.0 hPa	
+WEATHER_PHENOMENA: 2024-9-3 - Detected: very_high_humidity	
+  Temperature: 17.0C - 30.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 5.0mm	
+  Wind: up to 10.0 km/h	
+  Pressure range: 2.3 hPa	
+WEATHER_PHENOMENA: 2024-9-4 - Detected: very_high_humidity, heavy_precipitation	
+  Temperature: 17.0C - 25.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 17.0mm	
+  Wind: up to 17.0 km/h	
+  Pressure range: 3.2 hPa	
+WEATHER_STATS: 2024-9-5	
+  Temperature: 18.0C - 32.9C	
+  Humidity: up to 95.0%	
+  Precipitation: up to 3.0mm	
+  Wind: up to 21.0 km/h	
+  Pressure range: 7.2 hPa	
+WEATHER_PHENOMENA: 2024-9-6 - Detected: very_high_humidity	
+  Temperature: 15.0C - 23.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 15.0 km/h	
+  Pressure range: 5.1 hPa	
+WEATHER_PHENOMENA: 2024-9-7 - Detected: large_daily_temp_range, very_high_humidity	
+  Temperature: 13.0C - 29.0C	
+  Humidity: up to 98.0%	
+  Precipitation: up to 0.0mm	
+  Wind: up to 9.0 km/h	
+  Pressure range: 4.8 hPa	
+WEATHER_PHENOMENA: 2024-9-8 - Detected: very_high_humidity	
+  Temperature: 16.0C - 20.0C	
+  Humidity: up to 96.0%	
+  Precipitation: up to 5.0mm	
+  Wind: up to 18.0 km/h	
+  Pressure range: 5.0 hPa	
+WEATHER_PHENOMENA: 2024-9-9 - Detected: very_high_humidity	
+  Temperature: 15.0C - 20.0C	
+  Humidity: up to 97.0%	
+  Precipitation: up to 0.7mm	
+  Wind: up to 29.0 km/h	
+  Pressure range: 5.3 hPa	

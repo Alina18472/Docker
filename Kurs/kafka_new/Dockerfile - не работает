@@ -1,0 +1,42 @@
+# Создаем директорию для jar файлов
+mkdir -p /opt/spark/jars
+
+# Скачиваем необходимые Kafka библиотеки
+cd /opt/spark/jars
+
+# Удаляем старый connector если есть
+rm -f spark-sql-kafka-0-10_2.12-3.5.1.jar
+
+# Скачиваем полный набор зависимостей
+wget https://repo1.maven.org/maven2/org/apache/spark/spark-sql-kafka-0-10_2.12/3.5.1/spark-sql-kafka-0-10_2.12-3.5.1.jar
+wget https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.5.1/kafka-clients-3.5.1.jar
+wget https://repo1.maven.org/maven2/org/apache/spark/spark-token-provider-kafka-0-10_2.12/3.5.1/spark-token-provider-kafka-0-10_2.12-3.5.1.jar
+wget https://repo1.maven.org/maven2/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar
+wget https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10-assembly_2.12/3.5.1/spark-streaming-kafka-0-10-assembly_2.12-3.5.1.jar
+
+# Не в контейнере, просто в терминале запускаем команды для установки пакетов для запуска кода
+
+docker exec -it --user root kafka_new-spark-master-1 pip install kafka-python
+docker exec -it --user root kafka_new-spark-master-1 pip install pymongo
+docker exec -it --user root kafka_new-spark-master-1 pip install pyspark
+
+
+# Команды для переноса файлов питона в контейнер:
+docker cp streaming_producer.py kafka_new-spark-master-1:/opt/spark/
+docker cp streaming_consumer.py kafka_new-spark-master-1:/opt/spark/
+
+docker cp weather_consumer.py kafka_new-spark-master-1:/opt/spark/
+
+# Команды запуска приложений
+
+
+docker exec -it kafka_new-spark-master-1 python3 /opt/spark/streaming_producer.py
+docker exec -it kafka_new-spark-master-1 /opt/spark/bin/spark-submit /opt/spark/weather_consumer.py
+
+
+
+docker exec -it kafka_new-spark-master-1 python3 /opt/spark/streaming_producer.py
+docker exec -it kafka_new-spark-master-1 /opt/spark/bin/spark-submit /opt/spark/streaming_consumer.py
+
+
+
