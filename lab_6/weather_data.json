@@ -1,0 +1,111 @@
+{
+    "weather_data": [
+      {
+        "city": "Москва",
+        "date": "2024-01-15",
+        "temperature": -5.2,
+        "humidity": 85,
+        "pressure": 1013,
+        "wind_speed": 3.1,
+        "condition": "снег",
+        "precipitation": 2.5
+      },
+      {
+        "city": "Санкт-Петербург",
+        "date": "2024-01-15",
+        "temperature": -3.8,
+        "humidity": 82,
+        "pressure": 1011,
+        "wind_speed": 4.2,
+        "condition": "облачно",
+        "precipitation": 0.8
+      },
+      {
+        "city": "Новосибирск",
+        "date": "2024-01-15",
+        "temperature": -12.5,
+        "humidity": 78,
+        "pressure": 1008,
+        "wind_speed": 2.7,
+        "condition": "ясно",
+        "precipitation": 0.0
+      },
+      {
+        "city": "Сочи",
+        "date": "2024-01-15",
+        "temperature": 8.3,
+        "humidity": 65,
+        "pressure": 1015,
+        "wind_speed": 1.8,
+        "condition": "солнечно",
+        "precipitation": 0.0
+      },
+      {
+        "city": "Екатеринбург",
+        "date": "2024-01-15",
+        "temperature": -9.1,
+        "humidity": 81,
+        "pressure": 1010,
+        "wind_speed": 3.5,
+        "condition": "снег",
+        "precipitation": 1.2
+      },
+      {
+        "city": "Москва",
+        "date": "2024-01-16",
+        "temperature": -7.8,
+        "humidity": 83,
+        "pressure": 1014,
+        "wind_speed": 2.9,
+        "condition": "облачно",
+        "precipitation": 0.3
+      },
+      {
+        "city": "Санкт-Петербург",
+        "date": "2024-01-16",
+        "temperature": -5.2,
+        "humidity": 79,
+        "pressure": 1012,
+        "wind_speed": 3.8,
+        "condition": "снег",
+        "precipitation": 1.7
+      },
+      {
+        "city": "Новосибирск",
+        "date": "2024-01-16",
+        "temperature": -14.3,
+        "humidity": 76,
+        "pressure": 1009,
+        "wind_speed": 2.4,
+        "condition": "ясно",
+        "precipitation": 0.0
+      },
+      {
+        "city": "Сочи",
+        "date": "2024-01-16",
+        "temperature": 9.1,
+        "humidity": 62,
+        "pressure": 1016,
+        "wind_speed": 2.1,
+        "condition": "солнечно",
+        "precipitation": 0.0
+      },
+      {
+        "city": "Екатеринбург",
+        "date": "2024-01-16",
+        "temperature": -11.5,
+        "humidity": 80,
+        "pressure": 1011,
+        "wind_speed": 3.2,
+        "condition": "облачно",
+        "precipitation": 0.5
+      }
+    ],
+    "metadata": {
+      "source": "weather_api",
+      "last_updated": "2024-01-15T08:00:00Z",
+      "version": "1.0",
+      "cities_count": 5,
+      "days_count": 2
+    }
+  }
